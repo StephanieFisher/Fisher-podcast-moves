@@ -15,7 +15,7 @@ Welcome to Nightvale is organized like a community radio program, with segments 
 
 ## Style
 
-The show uses custom mixed music by Disperition (link) to add mood to the narrator’s words. There are long pauses between segments where the background music can play without the narrator’s voice over it.
+The show uses custom mixed music by [Disparition](http://www.disparition.info/) to add mood to the narrator’s words. There are long pauses between segments where the background music can play without the narrator’s voice over it.
 [The weather segment, instead of talking about the weather, is actually a guest musician playing a song, but is treated like a real weather segment, otherwise.][1] -ep 1, 12:17 [The musician is credited at the end.][1] -ep 1, 20:18
 
 ## Narrative Conventions
@@ -24,7 +24,7 @@ Sometimes, for emphasis, the music will stop and the narrator with repeat a poin
 >[“No one does a slice like Big Rico. **No one**.”][1] -ep 1, 2:37
 
 The narrator rarely does interviews, but when he does, they come across as concerned citizens phoning into a radio station to air concerns about some specific thing that has happened, or to weigh in on a topic with an opinion. Most often, these interviews are simply narrated by the narrator instead of being played as they happen.
->[“Carlos and his team of scientists warn that one of the houses in the new development of Desert Creek, out back of the elementary school, doesn’t actually exist.
+>[“Carlos and his team of scientists warn that one of the houses in the new development of Desert Creek, out back of the elementary school, doesn’t actually exist.<br/>
 “It seems like it exists,” explained Carlos and his perfect hair. “Like it’s just right there when you look at it. And it’s between two other identical houses, so it would make more sense for it to be there than not.” ”][1](ep 1, 8:29)
 
 There are ‘advertisements’ sometimes for real products, but with fictitious tag lines. 
@@ -32,6 +32,10 @@ There are ‘advertisements’ sometimes for real products, but with fictitious 
 **Guns don’t kill people.**<br/>
 **It’s impossible to be killed by a gun.**<br/>
 **We are all invincible to bullets and it’s a miracle.**”][1]-ep 1, 7:50
+
+## Conclusion
+
+Personally, I love this podcast. I have listened to over 100 episodes of it, been to two live shows (one of which was over nine hours of driving to get to), and have bought merchandise from their store. And I’ve regretted none of it. Welcome to Nightvale is one of the most original and entertaining pieces of media I have ever had enter my life, and represents a great deal of nostalgia for me when I listen to it again today.
 
 
 -transcript by [Cecil Speaks](http://cecilspeaks.tumblr.com/post/56680281610/episode-1-pilot)
