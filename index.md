@@ -2,7 +2,7 @@
 
 ## Summary
 
-Welcome to Nightvale is best described as Lovecraftian humor, often referencing nihilism and cosmic fear. “A friendly desert community where the sun is hot, the moon is beautiful, and mysterious lights pass overhead while we all pretend to sleep.” -episode 1, 0:00.
+Welcome to Nightvale is best described as Lovecraftian humor, often referencing nihilism and cosmic fear. [“A friendly desert community where the sun is hot, the moon is beautiful, and mysterious lights pass overhead while we all pretend to sleep.”][1] -episode 1, 0:00.
 
 
 ## Organization
@@ -28,9 +28,9 @@ The narrator rarely does interviews, but when he does, they come across as conce
 “It seems like it exists,” explained Carlos and his perfect hair. “Like it’s just right there when you look at it. And it’s between two other identical houses, so it would make more sense for it to be there than not.” ”][1](ep 1, 8:29)
 
 There are ‘advertisements’ sometimes for real products, but with fictitious tag lines. 
->[“The local chapter of the NRA is selling bumper stickers as part of their fundraising week. They sent the station one to get some publicity. And we’re here to serve the community, so I’m happy to let you all know about it. The stickers are made from good, sturdy vinyl, and they read:
-**Guns don’t kill people.**
-**It’s impossible to be killed by a gun.**
+>[“The local chapter of the NRA is selling bumper stickers as part of their fundraising week. They sent the station one to get some publicity. And we’re here to serve the community, so I’m happy to let you all know about it. The stickers are made from good, sturdy vinyl, and they read:br/
+**Guns don’t kill people.**br/
+**It’s impossible to be killed by a gun.**br/
 **We are all invincible to bullets and it’s a miracle.**”][1]-ep 1, 7:50
 
 
